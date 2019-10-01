@@ -1,1 +1,1 @@
-module github.com/khoir99ms/gomodmultiplies
+module github.com/khoir99ms/gomodmultiplies/v2
